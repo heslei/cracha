@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cracha</string>
+    <string name="checkin">Checkin</string>
+    <string name="checkout">Checkout</string>
+    <string name="historical">Historical</string>
+    <string name="clean_all">Clean all</string>
+    <string name="clean">Clean</string>
+    <string name="sucess">The %s time was saved!</string>
+    <string name="current">Current month</string>
+    <string name="last">Last month</string>
+    <string name="all">All</string>
+    <string name="empty_result">There is no registers in the period!</string>
+    <string name="delete_sucess">The registers was deleted!</string>
+    <string name="delete_fail">No registers was found in order to delete!</string>
+    <string name="confirm_delete">Are you sure you want to delete the registers?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cracha</string>
+    <string name="checkin">Entrada</string>
+    <string name="checkout">Saída</string>
+    <string name="historical">Histórico</string>
+    <string name="clean_all">Limpar tudo</string>
+    <string name="clean">Limpar</string>
+    <string name="sucess">O horário de %s foi gravado!</string>
+    <string name="current">Mês atual</string>
+    <string name="last">Mês passado</string>
+    <string name="all">Todos</string>
+    <string name="empty_result">Não existem registros no período selecionado!</string>
+    <string name="delete_sucess">Os registros foram apagados!</string>
+    <string name="delete_fail">Nenhum registro foi removido!</string>
+    <string name="confirm_delete">Você tem certeza que quer apagar os registros?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+</resources>
